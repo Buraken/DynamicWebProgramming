@@ -1,0 +1,1 @@
+This is a bookshop website project. PHP, Javascript, HTML, and CSS were used to build it.
